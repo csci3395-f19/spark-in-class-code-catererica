@@ -1,0 +1,4 @@
+data: RDD[WData]
+
+data.map(d => d.station -> d) // this produces a PairRDD so you CAN USE
+							 //  pairRDDFuction on them
