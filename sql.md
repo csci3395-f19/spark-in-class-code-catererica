@@ -1,4 +1,4 @@
-# Title
+# SQL Assignment
 
 ## Question 1
 
@@ -62,8 +62,52 @@ questions = 60
 ### What fraction of students who submit an answer for a function question eventually get it right?
 
 1551 / 2013 if 1 = true
+
 or 
+
 462/2013 if 0 = true
+
+## Question 9
+
+### 9. How many courses have given questions of the "lambda" type?
+
+9 courses
+
+
+## Question 10
+
+### Which user, by userid, has the most correct answers? How many do they have?
+
+userid: 156
+
+correct answers: 106
+
+
+## Question 11
+
+### What are the three most common spec_types for variables in the problems?
+
+The 3 most common spec_types are:
+
+1st: 0
+
+2nd: 2
+
+3rd: 3
+
+
+## Question 12
+
+### What fraction of quizzes have coding questions?
+
+To my understanding, coding questions are "question_type = 1" in the code_answers table.
+
+
+
+
+
+
+
 
 
 
